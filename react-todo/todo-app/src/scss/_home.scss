@@ -1,0 +1,11 @@
+
+.home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .card{
+        margin: 0 auto;
+        border: 0;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    }
+}
